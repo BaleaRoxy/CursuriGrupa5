@@ -7,19 +7,20 @@ variab='ana are \n{1} mere \n{0}'.format(nr, culoare)
 varia=f'ana are {nr} mere {culoare}'
 
 print(variab)
-C=0
+c=0
 a=1
 b=2
-# c = a+b
-# c+=a
-# print(c)
+c = a+b
+c+=a
+print(c)
+
 # print(f"rezultatul este {c}")
-if conditie e adevarata:
-    print("conditie")
-elif conditie2 e adevarata:
-    print(conditie2)
-elif conditie3 e adevarata:
-    print("conditie3")
-..
-else
-print()
+# if conditie e adevarata:
+#     print("conditie")
+# elif conditie2 e adevarata:
+#     print(conditie2)
+# elif conditie3 e adevarata:
+#     print("conditie3")
+# ..
+# else
+# print( )
